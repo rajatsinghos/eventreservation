@@ -1,0 +1,8 @@
+
+{
+  "name": "AfterPartyLuxe by ARN",
+  "description": "A premium event landing page for exclusive after-parties, featuring venue highlights, a photo gallery, interactive maps, and an AI-powered party concierge.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
